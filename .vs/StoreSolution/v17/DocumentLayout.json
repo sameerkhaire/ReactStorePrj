@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Store\\StoreSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8D143D-C460-4628-8FBB-26047B59DD14}|Store.API\\Store.API.csproj|d:\\store\\storesolution\\store.api\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8D143D-C460-4628-8FBB-26047B59DD14}|Store.API\\Store.API.csproj|solutionrelative:store.api\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8D143D-C460-4628-8FBB-26047B59DD14}|Store.API\\Store.API.csproj|d:\\store\\storesolution\\store.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8D143D-C460-4628-8FBB-26047B59DD14}|Store.API\\Store.API.csproj|solutionrelative:store.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8D143D-C460-4628-8FBB-26047B59DD14}|Store.API\\Store.API.csproj|d:\\store\\storesolution\\store.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8D143D-C460-4628-8FBB-26047B59DD14}|Store.API\\Store.API.csproj|solutionrelative:store.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8D143D-C460-4628-8FBB-26047B59DD14}|Store.API\\Store.API.csproj|d:\\store\\storesolution\\store.api\\data\\dbinitailzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8D143D-C460-4628-8FBB-26047B59DD14}|Store.API\\Store.API.csproj|solutionrelative:store.api\\data\\dbinitailzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8D143D-C460-4628-8FBB-26047B59DD14}|Store.API\\Store.API.csproj|d:\\store\\storesolution\\store.api\\data\\migrations\\20250903035731_storemigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8D143D-C460-4628-8FBB-26047B59DD14}|Store.API\\Store.API.csproj|solutionrelative:store.api\\data\\migrations\\20250903035731_storemigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8D143D-C460-4628-8FBB-26047B59DD14}|Store.API\\Store.API.csproj|d:\\store\\storesolution\\store.api\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8D143D-C460-4628-8FBB-26047B59DD14}|Store.API\\Store.API.csproj|solutionrelative:store.api\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8D143D-C460-4628-8FBB-26047B59DD14}|Store.API\\Store.API.csproj|d:\\store\\storesolution\\store.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B8D143D-C460-4628-8FBB-26047B59DD14}|Store.API\\Store.API.csproj|solutionrelative:store.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Store\\StoreSolution\\Store.API\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Store.API\\Entities\\Product.cs",
+              "ToolTip": "D:\\Store\\StoreSolution\\Store.API\\Entities\\Product.cs",
+              "RelativeToolTip": "Store.API\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T13:22:38.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Store\\StoreSolution\\Store.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Store.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Store\\StoreSolution\\Store.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Store.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T04:18:06.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbInitailzer.cs",
+              "DocumentMoniker": "D:\\Store\\StoreSolution\\Store.API\\Data\\DbInitailzer.cs",
+              "RelativeDocumentMoniker": "Store.API\\Data\\DbInitailzer.cs",
+              "ToolTip": "D:\\Store\\StoreSolution\\Store.API\\Data\\DbInitailzer.cs",
+              "RelativeToolTip": "Store.API\\Data\\DbInitailzer.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAAABoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T04:02:16.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250903035731_StoreMigration.cs",
+              "DocumentMoniker": "D:\\Store\\StoreSolution\\Store.API\\Data\\Migrations\\20250903035731_StoreMigration.cs",
+              "RelativeDocumentMoniker": "Store.API\\Data\\Migrations\\20250903035731_StoreMigration.cs",
+              "ToolTip": "D:\\Store\\StoreSolution\\Store.API\\Data\\Migrations\\20250903035731_StoreMigration.cs",
+              "RelativeToolTip": "Store.API\\Data\\Migrations\\20250903035731_StoreMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T03:57:32.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Store\\StoreSolution\\Store.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Store.API\\appsettings.json",
+              "ToolTip": "D:\\Store\\StoreSolution\\Store.API\\appsettings.json",
+              "RelativeToolTip": "Store.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-03T03:47:12.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Store\\StoreSolution\\Store.API\\Program.cs",
+              "RelativeDocumentMoniker": "Store.API\\Program.cs",
+              "ToolTip": "D:\\Store\\StoreSolution\\Store.API\\Program.cs",
+              "RelativeToolTip": "Store.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T03:44:36.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StoreContext.cs",
+              "DocumentMoniker": "D:\\Store\\StoreSolution\\Store.API\\Data\\StoreContext.cs",
+              "RelativeDocumentMoniker": "Store.API\\Data\\StoreContext.cs",
+              "ToolTip": "D:\\Store\\StoreSolution\\Store.API\\Data\\StoreContext.cs",
+              "RelativeToolTip": "Store.API\\Data\\StoreContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T03:42:08.633Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
